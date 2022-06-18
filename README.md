@@ -9,7 +9,6 @@
 - Needs constant stimulus to stay alive
 - Human equivalent of 1.0 temperature ai 🤖
 - Currently interested in full stack development
-  <br>
 
 <!--
 <div align="center">
@@ -32,7 +31,6 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Bforbiggy" height="30" width="30" />
     </a>
 </p>
-<br>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=0px width=35px> Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width = 35px>
 
@@ -56,7 +54,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40"height="40" /> 
     </a>  
 </p>
-<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
