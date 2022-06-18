@@ -18,7 +18,7 @@
 </div>
 -->
 
-# <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px"> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px">
+# <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px"> Let's Talk <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px">
 
 <p align="left">
     <a href="https://github.com/bforbiggy" target="blank">
@@ -31,6 +31,9 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Bforbiggy" height="30" width="30" />
     </a>
 </p>
+
+- Discord: biggy#4658  
+- Email: andyhecsp@protonmail.com  
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=0px width=35px> Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width = 35px>
 
@@ -85,9 +88,9 @@ public class Profile{
 
 <br/>
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bforbiggy&show_icons=true&theme=gruvbox&hide_border=true"/>
-    <img width=49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bforbiggy&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bforbiggy&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img width=49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bforbiggy&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-![Biggy's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bforbiggy&custom_title=Biggy's%20Activity%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Biggy's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bforbiggy&custom_title=Biggy's%20Activity%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
