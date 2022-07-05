@@ -47,15 +47,18 @@
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="35" height="40" /> 
     </a> 
-    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"alt="html5" width="40" height="40" /> 
-    </a> 
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/AnantP@java.png" alt="java" width="40"height="40" /> 
     </a>  
     <a href="https://en.wikipedia.org/wiki/.NET" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="40"height="40" /> 
-    </a>  
+    </a>
+    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"alt="html5" width="40" height="40" /> 
+    </a> 
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React" width="40" height="35"/> 
+    </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
