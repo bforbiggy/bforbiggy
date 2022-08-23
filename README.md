@@ -4,9 +4,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp#&logoColor=c58545&labelColor=282828)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/187003715302064128)](https://discord.com/users/187003715302064128)
+
 ## About me
 
-- Needs constant stimulus to stay alive
+- Needs stimulation to stay alive
 - Human equivalent of 1.0 temperature ai 🤖
 - Currently interested in full stack development
 
@@ -30,10 +32,10 @@
     <a href="https://twitter.com/bforbiggy" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Bforbiggy" height="30" width="30" />
     </a>
+    <a href="mailto: andyhecs@protonmail.com" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Bforbiggy" height="30" width="30" />
+    </a>
 </p>
-
-- Discord: biggy#4658  
-- Email: andyhecsp@protonmail.com  
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=0px width=35px> Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width = 35px>
 
