@@ -99,3 +99,5 @@ public class Profile{
 </p>
 
 ![Biggy's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bforbiggy&custom_title=Biggy's%20Activity%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+![Contribution Snake](https://raw.githubusercontent.com/bforbiggy/bforbiggy/output/github-contribution-grid-snake.svg)
