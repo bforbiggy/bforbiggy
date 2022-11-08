@@ -87,7 +87,7 @@ public class Profile{
         this.location = new GeoCoordinate(40.75, -74); // New York City, United States
 
         socials[Social.Github] = "https://github.com/bforbiggy";
-        socials[Social.Youtube] = "";
+        socials[Social.Website] = "https://bforbiggy.github.io";
     }
 }
 ```
