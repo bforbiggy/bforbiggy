@@ -9,21 +9,12 @@
 
 [<img src="https://lanyard.cnrad.dev/api/187003715302064128" height="60%" width="60%">](https://discord.com/users/187003715302064128)
 
-## About me
+# About me
 
-- Needs stimulation to stay alive
-- Human equivalent of 1.0 temperature ai 🤖
-- Currently interested in full stack development
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
--->
-
-# <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px"> Let's Talk <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="35px" width="70px">
+- Constantly tinkering new things
+- Puts the artificial in artificial intelligence 
+- Proficient front-end developer
+- Proficient back-end developer
 
 <p align="left">
     <a href="https://github.com/bforbiggy" target="blank">
@@ -33,14 +24,14 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Bforbiggy" height="30" width="30" />
     </a>
     <a href="https://twitter.com/bforbiggy" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Bforbiggy" height="30" width="30" />
+        <img align="center" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Bforbiggy" height="30" width="30" />
     </a>
     <a href="mailto: andyhecs@protonmail.com" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Bforbiggy" height="30" width="30" />
     </a>
 </p>
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=0px width=35px> Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width = 35px>
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width=35px> Languages & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=30px width = 35px>
 
 <p align="left"> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
