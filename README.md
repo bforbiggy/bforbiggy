@@ -1,4 +1,6 @@
-# Hey hey! <img src= "https://media.discordapp.net/attachments/441515622329745408/922266941727580200/OtterJam1.gif" width= "30" height= "30"> <a href="https://github.com/bforbiggy"> <img align="right" src="https://img.shields.io/github/followers/bforbiggy?label=Follow&amp;style=social" alt="Github"></a>
+# Hey hey! <a href="https://github.com/bforbiggy"> <img align="right" src="https://img.shields.io/github/followers/bforbiggy?label=Follow&amp;style=social" alt="Github"></a><img src= "https://media.discordapp.net/attachments/441515622329745408/922266941727580200/OtterJam1.gif" width= "30" height= "30">
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bforbiggy&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
