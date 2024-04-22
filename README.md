@@ -15,8 +15,7 @@
 
 - Constantly tinkering new things
 - Puts the artificial in artificial intelligence 
-- Proficient front-end developer
-- Proficient back-end developer
+- Proficient full stack developer
 
 <p align="left">
     <a href="https://github.com/bforbiggy" target="blank">
